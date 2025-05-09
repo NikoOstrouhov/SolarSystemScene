@@ -1,0 +1,15 @@
+{
+  "name": "cornell-box",
+  "version": "1.0.0",
+  "dependencies": [
+    "opengl",
+    "sdl2",
+    "glm",
+    "glfw3",
+    "glad",
+    "glew",
+    "freeglut",
+    "soil2",
+    "assimp"
+  ]
+}

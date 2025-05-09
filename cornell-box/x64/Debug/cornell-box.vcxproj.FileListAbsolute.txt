@@ -1,0 +1,16 @@
+C:\Computer Graphics\cornell-box\x64\Debug\assimp-vc143-mtd.dll
+C:\Computer Graphics\cornell-box\x64\Debug\poly2tri.dll
+C:\Computer Graphics\cornell-box\x64\Debug\minizip.dll
+C:\Computer Graphics\cornell-box\x64\Debug\zlibd1.dll
+C:\Computer Graphics\cornell-box\x64\Debug\pugixml.dll
+C:\Computer Graphics\cornell-box\x64\Debug\glew32d.dll
+C:\Computer Graphics\cornell-box\x64\Debug\SDL2d.dll
+C:\Computer Graphics\cornell-box\cornell-box\x64\Debug\cornell-.37109CAD.Up2Date
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\assimp-vc143-mtd.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\poly2tri.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\minizip.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\zlibd1.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\pugixml.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\glew32d.dll
+C:\Users\Niko\Desktop\cornell-box\x64\Debug\SDL2d.dll
+C:\Users\Niko\Desktop\cornell-box\cornell-box\x64\Debug\cornell-.37109CAD.Up2Date
