@@ -1,0 +1,17 @@
+x64-windows/
+x64-windows/debug/
+x64-windows/debug/lib/
+x64-windows/debug/lib/soil2.lib
+x64-windows/include/
+x64-windows/include/SOIL2/
+x64-windows/include/SOIL2/SOIL2.h
+x64-windows/lib/
+x64-windows/lib/soil2.lib
+x64-windows/share/
+x64-windows/share/soil2/
+x64-windows/share/soil2/copyright
+x64-windows/share/soil2/soil2Config.cmake
+x64-windows/share/soil2/soil2Targets-release.cmake
+x64-windows/share/soil2/soil2Targets.cmake
+x64-windows/share/soil2/vcpkg.spdx.json
+x64-windows/share/soil2/vcpkg_abi_info.txt
